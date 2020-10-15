@@ -8,4 +8,5 @@ print('Abhishek Mohata: https://github.com/amohata007')
 print('Ashita Gaur: https://github.com/ashitagaur00')
 print('Ritika Garg: https://github.com/Ritika0126')
 
+print('Adarsh Singh Chauhan: https://github.com/iamadarsh47'
 
